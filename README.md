@@ -70,4 +70,4 @@ Classifies a new data point by finding the `k` closest training examples and tak
 
 ## 👤 Author
 
-**kopiyo** — Part of a machine learning portfolio project.
+**Diana Opiyo** — Part of a machine learning portfolio project.
