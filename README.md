@@ -9,8 +9,14 @@ A hands-on Python notebook demonstrating the core distance metrics used in machi
 This notebook walks through four key concepts with simple examples and visualizations:
 
 | (a) | L1 Distance — Manhattan Distance |
+
+
 | (b) | L2 Distance — Euclidean Distance |
+
+
 | (c) | Cosine Distance — Angle Between Vectors |
+
+
 | (d) | k-Nearest Neighbors (k-NN) Classification |
 
 ---
@@ -61,9 +67,6 @@ Classifies a new data point by finding the `k` closest training examples and tak
 
 ---
 
----
-
----
 
 ## 👤 Author
 
